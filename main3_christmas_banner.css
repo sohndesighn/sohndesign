@@ -1,0 +1,518 @@
+
+@charset "utf-8";
+
+.main3 {
+     width: 1440px; 
+     height: 848px;
+    background-color: #014421;
+}
+
+.main3 .overlap {
+    position: relative;
+    height: 848px;
+    top: -2px;
+}
+
+.main3 .strong-EVENT {
+    position: absolute;
+    width: 66px;
+    height: 19px;
+    top: 104px;
+    left: 687px;
+    font-family: 'Pretendard Variable', sans-serif;
+    font-weight: 700;
+    color: transparent;
+    font-size: 16px;
+    letter-spacing: 0;
+    line-height: 25.6px;
+    white-space: nowrap;
+}
+
+.main3 .heading-SELECTION {
+    position: absolute;
+    width: 513px;
+    height: 39.984px;
+    top: 115px;
+    left: 466px;
+}
+
+.main3 .list-container {
+    position: absolute;
+    width: 1440px;
+    height: 613px;
+    top: 200px;
+    left: 0px;
+}
+
+.main3 .overlap-group {
+    position: absolute;
+    width: 345px;
+    height: 552px;
+    top: 12px;
+    left: 547px;
+}
+.main3 .list {
+    position: absolute;
+    width: 345px;
+    height: 475px;
+    top: 0;
+    left: 0;
+    border-radius: 5px;
+    overflow: visible;
+}
+
+ .main3 .item1 .div {
+ 
+    position: relative;
+    width: 384px;
+    height: 26px;
+} 
+
+.main3 .item1 .frame {
+    position: absolute;
+    width: 345px;
+    height: 408px;
+  
+}
+
+.main3 .item1 .frame .frame_overlap-group {
+height: 390px;
+position: relative;
+  
+}
+
+.main3 .item1 .main_frame {
+    position: absolute;
+    width: 345px;
+    height: 345px;
+  
+}
+
+.main3 .item1 .obj1 {
+    position: absolute;
+    width: 107px;
+    height: 107px;
+    top: 173px;
+    left: 50px;
+    object-fit: cover;
+  
+}
+.main3 .item1 .obj2 {
+    position: absolute;
+    width: 100px;
+    height: 130px;
+    top: 150px;
+    left: 140px;
+    z-index: 1;
+  
+}.main3 .item1 .obj3 {
+    position: absolute;
+    width: 97px;
+    height: 97px;
+    top: 185px;
+    left: 190px;
+    object-fit: cover;
+    z-index: 1;
+  
+}
+.main3 .item1 .obj4 {
+    position: absolute;
+    width: 149px;
+    height: 195px;
+    top: 72px;
+    left: 148px;
+  
+}
+.main3 .item1 .bottom-container-logo {
+    position: absolute;
+    width: 287px;
+    height: 91px;
+    top: 292px;
+    left: 28px;
+}
+ 
+
+/*.main3 .item1 .TXT-BOX {
+ 
+    width: 303px;
+    height:142px;
+     top: 900px;
+    left: 29px; 
+}*/
+
+.main3 .item1 .TXT-BOX .span {
+    width: 465px;
+    height:266px;
+ font-family:'Pretendard Variable', sans-serif;
+ font-weight: 400;
+ color: #fff9eb;
+
+
+}
+
+
+ .main3 .item1 .TXT-BOX .p {  
+    width: 465px;
+    height:266px;
+     top:400px;
+    left:-61px;
+    position: absolute;
+    font-family:'Pretendard Variable', sans-serif;
+    font-weight: 400;
+    color: transparent;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 32px;        
+} 
+
+.main3 .item1 .TXT-BOX .text-wrapper {
+ 
+    color: #f9ecc0;
+    width: 465px;
+    height:266px;
+    font-family:'Pretendard Variable', sans-serif;
+    font-weight: 500;
+}
+
+
+
+
+
+
+.main3 .item2 .div {
+ 
+    position: relative;
+    width: 384px;
+    height: 26px;
+} 
+
+.main3 .item2 .frame {
+    position: relative;
+    width: 345px;
+    height: 408px;
+  
+}
+
+.main3 .item2 .frame .frame_overlap-group {
+height: 390px;
+position: relative;
+top: 17px;
+  
+}
+
+.main3 .item2 .main_frame {
+    position: absolute;
+    width: 345px;
+    height: 345px;
+     
+}
+
+ 
+.main3 .item2 .obj1 {
+    position: absolute;
+    width: 200px;
+    height: 250px;
+    top: 70px;
+    left: 80px;
+ 
+  
+} 
+  
+ 
+.main3 .item2 .bottom-container-logo {
+    position: absolute;
+    width: 287px;
+    height: 91px;
+    top: 292px;
+    left: 28px;
+}
+ 
+ 
+.main3 .item2 .TXT-BOX .span {
+    width: 465px;
+    height:266px;
+ font-family:'Pretendard Variable', sans-serif;
+ font-weight: 400;
+ color: #fff9eb;
+
+
+}
+
+
+ .main3 .item2 .TXT-BOX .p {  
+    width: 465px;
+    height:266px;
+     top:417px;
+    left:-61px;
+    position: absolute;
+    font-family:'Pretendard Variable', sans-serif;
+    font-weight: 400;
+    color: transparent;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 32px;        
+} 
+
+.main3 .item2 .TXT-BOX .text-wrapper {
+ 
+    color: #f9ecc0;
+    width: 465px;
+    height:266px;
+    font-family:'Pretendard Variable', sans-serif;
+    font-weight: 500;
+}
+
+
+
+
+
+
+
+
+.main3 .item3   {
+ 
+    position:absolute;
+    width: 384px;
+    height: 26px;
+    left:  -385px;
+} 
+
+.main3 .item3 .frame {
+    position: absolute;
+    width: 345px;
+    height: 408px;
+ 
+  
+}
+
+.main3 .item3 .frame .frame_overlap-group {
+height: 390px;
+position: relative;
+top: 17px;
+  
+}
+
+.main3 .item3 .main_frame {
+    position: absolute;
+    width: 345px;
+    height: 345px;
+     
+}
+
+ 
+.main3 .item3 .obj1 {
+    position: absolute;
+    width: 180px;
+    height: 190px;
+    top: 90px;
+    left: 110px;
+ 
+  
+} 
+
+.main3 .item3 .obj2 {
+    position: absolute;
+    width: 100px;
+    height: 110px;
+    top: 170px;
+    left: 80px;
+ 
+  
+} 
+  
+ 
+.main3 .item3 .bottom-container-logo {
+    position: absolute;
+    width: 287px;
+    height: 91px;
+    top: 292px;
+    left: 28px;
+}
+ 
+ 
+.main3 .item3 .TXT-BOX .span {
+    width: 465px;
+    height:266px;
+ font-family: 'Pretendard Variable', sans-serif;
+ font-weight: 400;
+ color: #fff9eb;  
+}
+
+
+ .main3 .item3 .TXT-BOX .p {  
+    width: 465px;
+    height:266px;
+     top:417px;
+    left:-61px;
+    position: absolute;
+    font-family: 'Pretendard Variable', sans-serif;
+    font-weight: 400;
+    color: transparent;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0;
+    line-height: 32px;        
+} 
+
+.main3 .item3 .TXT-BOX .text-wrapper {
+ 
+    color: #f9ecc0;
+    width: 465px;
+    height:266px;
+    font-family: 'Pretendard Variable', sans-serif;
+    font-weight: 500;
+}
+
+
+
+
+.main3 .bottom-container-2 {/*top*/
+    position: absolute;
+    width: 1440px;
+    height: 10px;
+   top: -170px;
+    left: -547px;
+    background-color: #0c0c2f;
+}
+
+.main3 .bottom-container-3 {/*bottom*/
+    position: absolute;
+    width: 1440px;
+    height: 10px;
+   top: 580px;
+    left: -547px;
+}
+
+.main3 .bottom-container-4 {/*right*/
+    position: absolute;
+    width: 10px;
+    height: 848px;
+   top: -210px;
+    left:820px;
+
+}
+
+.main3 .bottom-container-5 {/*left*/
+    position: absolute;
+    width: 848px;
+    height: 10px;
+    top: 209px;
+    left: -900px;
+    background-color: #0c0c2f;
+    transform: rotate(-90deg);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

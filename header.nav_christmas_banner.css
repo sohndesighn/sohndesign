@@ -1,0 +1,201 @@
+@charset "utf-8";
+
+body { background-color: #ffffff;}
+#lottie1 {
+
+}
+.header {
+  position: relative;
+  width: 1440px;
+  height: 501px;
+  background-color: #0c0c2f;
+}
+
+.header .p {
+  position: absolute;
+  width: 327px;
+  height: 383px;
+  top: 58px;
+  left: 1081px;
+}
+
+.header .div {
+  position: absolute;
+  width: 327px;
+  height: 383px;
+  top: -1px;
+  left: 0;
+  font-family: 'Pretendard Variable', sans-serif;
+  font-weight: 400;
+  color: #d4af37;
+  font-size: 30px;
+  text-align: center;
+  letter-spacing: 2.10px;
+  line-height: normal;
+}
+
+.header .text-wrapper {
+  font-weight: 700;
+  letter-spacing: 0.63px;
+}
+
+.header .span {
+  font-family: 'Pretendard Variable', sans-serif;
+  letter-spacing: 0.63px;
+}
+
+.header .overlap-group {
+  position: absolute;
+  width: 1021px;
+  height: 383px;
+  top: 55px;
+  left: 53px;
+}
+
+.header .COMMING-SOON-wrapper {
+  position: absolute;
+  width: 327px;
+  height: 383px;
+  top: 0;
+  left: 0;
+}
+
+.header .h {
+  position: absolute;
+  width: 708px;
+  height: 230px;
+  top: 76px;
+  left: 313px;
+  background-image: url(./images/HOLYDAY.png);
+  background-size: cover;
+  background-position: 50% 50%;
+}
+
+.nav {
+  width: 1440px ;
+height: 50px;}
+
+.nav .background {
+  position: relative;
+  height: 50px;
+  background-color: #d4af37;
+}
+.nav .div {
+  width: 1114px;
+  left: 163px;
+  /*overflow: scroll;*/
+  position: relative;
+  height: 50px;
+  background-color: #d4af37;
+}
+
+.nsv .link {
+  position: absolute;
+  width: 170px;
+  height: 50px;
+  top: 0;
+  left: 0;
+}
+
+.nav .text-wrapper {
+  width: 80px;
+  left: 220px;
+  position: absolute;
+  height: 19px;
+  top: 14px;
+  left: 40px;
+  font-family: 'Pretendard Variable', sans-serif;
+  color: #ffffff;
+  font-size:20px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+ 
+
+
+.nav .hrizontal-divider {
+  position: absolute;
+  width: 172px;
+  height: 2px;
+  top: 48px;
+  left: -3px;
+  background-color: #fff;
+}
+
+.nav .link-deal {
+  width: 80px;
+  left: 220px;
+  position: absolute;
+  height: 19px;
+  top: 14px;
+  font-family: 'Pretendard Variable', sans-serif;
+  font-weight: 700;
+  color: #0c0c2f;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.nav .link-selection {
+  width: 137px;
+  left: 372px;
+  position: absolute;
+  height: 19px;
+  top: 14px;
+  font-family: 'Pretendard Variable', sans-serif;
+  font-weight: 700;
+  color: #0c0c2f;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.nav .link-exclusive {
+  width: 107px;
+  left: 570px;
+  position: absolute;
+  height: 19px;
+  top: 14px;
+  font-family: 'Pretendard Variable', sans-serif;
+  font-weight: 700;
+  color: #0c0c2f;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+.nav .link-2 {
+  position: absolute;
+  width: 97px;
+  height: 19px;
+  top: 14px;
+  left: 768px;
+  font-family:'Pretendard Variable', sans-serif;
+  font-weight: 700;
+  color: #0c0c2f;
+  font-size: 18px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  white-space: nowrap;
+}
+
+
+.nav .link-3 {
+width: 119px;
+left: 955px;
+position: absolute;
+height: 19px;
+top: 14px;
+font-family: 'Pretendard Variable', sans-serif;
+font-weight: 700;
+color: #0c0c2f;
+font-size: 18px;
+letter-spacing: 0;
+line-height: 22.4px;
+white-space: nowrap;
+}
+

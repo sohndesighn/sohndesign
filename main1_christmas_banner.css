@@ -1,0 +1,101 @@
+
+@charset "utf-8";
+
+
+.main1 { position: relative; width: 1440px; height: 753px; background-color: #014421;}
+
+.main1 .p {
+    Position: absolute; 
+    width:692px; 
+    height: 68px;
+    }
+
+.main1 .p .text-wrapper {
+     position: absolute; 
+     width: 692px; 
+     height: 67px; 
+     top: 600px; 
+     left: 400px; 
+     background: linear-gradient( 180deg, rgb(255, 249, 235) 0%, rgb(197, 138, 88) 100% ); -webkit-background-clip: text !important; background-clip: text; -webkit-text-fill-color: transparent; text-fill-color: transparent; font-family:'Pretendard Variable', sans-serif; font-weight: 600; color: transparent; font-size: 25px; text-align: center; letter-spacing: 0; line-height: 28.8px; 
+     
+}
+
+
+
+.main1 .text-wrapper {
+    position:absolute;
+     width: 692px; 
+     height: 67px;
+     top:  0px; 
+     left: 0; 
+     background: linear-gradient( 180deg, rgb(255, 249, 235) 0%, rgb(197, 138, 88) 100% ); -webkit-background-clip: text !important; background-clip: text;
+    -webkit-text-fill-color: transparent;
+    text-fill-color: transparent;
+    font-family: 'Pretendard Variable', sans-serif;
+    font-weight: 600;
+    color: transparent; 
+    font-size: 25px; 
+    text-align: center; 
+    letter-spacing: 0; 
+    line-height: 28.8px; 
+}
+
+.main1 .background {
+    position:absolute;
+     width: 300px; 
+     height: 280px; 
+     top: 290px; 
+     left: 564px; 
+     background-color: #0c0c2f; 
+     border: 6px solid;
+    border-color: #d4af37;
+    /*z-index: 1;*/
+}
+
+ .main1 .background .frame {
+    position: absolute; 
+    width: 300px; 
+    height: 280px; 
+    top: 0px; 
+    left: 0px; 
+    background-image: url(./images/xmas_tree.png); background-size: cover;
+    background-position: 50% 50%; 
+   
+}
+
+.main1 .beuty-wrapper {
+    position: absolute; 
+    width: 300px; 
+    height: 126px; 
+    top: 80px; 
+    left: 567px; 
+}
+
+.main1 .h {
+    position: absolute; 
+    width: 300px; 
+    height: 67px; 
+    top: 200px; 
+    left:560px; 
+    background-image: url("./images/lineup.png");
+    background-size: cover; 
+    background-position: 50% 50%;
+} 
+
+.main1 .beauty-wrapper {
+    position: absolute; 
+    width: 300px; 
+    height: 66px; 
+    top: 0; 
+    left: 0;
+}
+
+ .main1 .beauty {
+    position: absolute; 
+    width: 250px; 
+    height:40px; 
+    top: 70px;  
+    left: 20px; 
+    object-fit: fill; 
+ } 
+ 
